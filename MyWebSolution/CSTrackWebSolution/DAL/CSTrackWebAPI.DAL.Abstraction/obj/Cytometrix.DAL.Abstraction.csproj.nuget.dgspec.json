@@ -1,0 +1,383 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\DAL\\Cytometrix.DAL.Abstraction\\Cytometrix.DAL.Abstraction.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\Common\\Cytometrix.Common\\CSTrackWebAPI.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\Common\\Cytometrix.Common\\CSTrackWebAPI.Common.csproj",
+        "projectName": "CSTrackWebAPI.Common",
+        "projectPath": "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\Common\\Cytometrix.Common\\CSTrackWebAPI.Common.csproj",
+        "packagesPath": "C:\\Users\\kytsun_a\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\Common\\Cytometrix.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kytsun_a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\Core\\DAL\\Cytometrix.Core.DAL.Abstraction\\CSTrackWebAPI.Core.DAL.Abstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\Core\\DAL\\Cytometrix.Core.DAL.Abstraction\\CSTrackWebAPI.Core.DAL.Abstraction.csproj",
+        "projectName": "CSTrackWebAPI.Core.DAL.Abstraction",
+        "projectPath": "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\Core\\DAL\\Cytometrix.Core.DAL.Abstraction\\CSTrackWebAPI.Core.DAL.Abstraction.csproj",
+        "packagesPath": "C:\\Users\\kytsun_a\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\Core\\DAL\\Cytometrix.Core.DAL.Abstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kytsun_a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\Cytometrix.Core.Model.Abstraction\\Cytometrix.Core.Model.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\Cytometrix.Core.Model.Abstraction\\Cytometrix.Core.Model.Abstraction.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\Cytometrix.Core.Model.Abstraction\\Cytometrix.Core.Model.Abstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\Cytometrix.Core.Model.Abstraction\\Cytometrix.Core.Model.Abstraction.csproj",
+        "projectName": "Cytometrix.Core.Model.Abstraction",
+        "projectPath": "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\Cytometrix.Core.Model.Abstraction\\Cytometrix.Core.Model.Abstraction.csproj",
+        "packagesPath": "C:\\Users\\kytsun_a\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\Cytometrix.Core.Model.Abstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kytsun_a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\Cytometrix.Model\\Cytometrix.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\Cytometrix.Model\\Cytometrix.Model.csproj",
+        "projectName": "Cytometrix.Model",
+        "projectPath": "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\Cytometrix.Model\\Cytometrix.Model.csproj",
+        "packagesPath": "C:\\Users\\kytsun_a\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\Cytometrix.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kytsun_a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\Common\\Cytometrix.Common\\CSTrackWebAPI.Common.csproj": {
+                "projectPath": "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\Common\\Cytometrix.Common\\CSTrackWebAPI.Common.csproj"
+              },
+              "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\Cytometrix.Core.Model.Abstraction\\Cytometrix.Core.Model.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\Cytometrix.Core.Model.Abstraction\\Cytometrix.Core.Model.Abstraction.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\DAL\\Cytometrix.DAL.Abstraction\\Cytometrix.DAL.Abstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\DAL\\Cytometrix.DAL.Abstraction\\Cytometrix.DAL.Abstraction.csproj",
+        "projectName": "Cytometrix.DAL.Abstraction",
+        "projectPath": "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\DAL\\Cytometrix.DAL.Abstraction\\Cytometrix.DAL.Abstraction.csproj",
+        "packagesPath": "C:\\Users\\kytsun_a\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\DAL\\Cytometrix.DAL.Abstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kytsun_a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\Common\\Cytometrix.Common\\CSTrackWebAPI.Common.csproj": {
+                "projectPath": "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\Common\\Cytometrix.Common\\CSTrackWebAPI.Common.csproj"
+              },
+              "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\Core\\DAL\\Cytometrix.Core.DAL.Abstraction\\CSTrackWebAPI.Core.DAL.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\Core\\DAL\\Cytometrix.Core.DAL.Abstraction\\CSTrackWebAPI.Core.DAL.Abstraction.csproj"
+              },
+              "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\Cytometrix.Model\\Cytometrix.Model.csproj": {
+                "projectPath": "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\Cytometrix.Model\\Cytometrix.Model.csproj"
+              },
+              "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\Model\\Cytometrix.Model.DTO\\Cytometrix.Model.DTO.csproj": {
+                "projectPath": "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\Model\\Cytometrix.Model.DTO\\Cytometrix.Model.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\Model\\Cytometrix.Model.DTO\\Cytometrix.Model.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\Model\\Cytometrix.Model.DTO\\Cytometrix.Model.DTO.csproj",
+        "projectName": "Cytometrix.Model.DTO",
+        "projectPath": "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\Model\\Cytometrix.Model.DTO\\Cytometrix.Model.DTO.csproj",
+        "packagesPath": "C:\\Users\\kytsun_a\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\Model\\Cytometrix.Model.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kytsun_a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\Common\\Cytometrix.Common\\CSTrackWebAPI.Common.csproj": {
+                "projectPath": "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\Common\\Cytometrix.Common\\CSTrackWebAPI.Common.csproj"
+              },
+              "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\Cytometrix.Model\\Cytometrix.Model.csproj": {
+                "projectPath": "C:\\Users\\kytsun_a\\Downloads\\cytometrixapi - копия\\Cytometrix.Model\\Cytometrix.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

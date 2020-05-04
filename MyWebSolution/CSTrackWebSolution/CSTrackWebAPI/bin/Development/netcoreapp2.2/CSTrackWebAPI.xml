@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CSTrackWebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:CytometrixWebAPI.Controllers.PlayersController.List">
+            <summary>
+            Get All Players
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CytometrixWebAPI.Controllers.PlayersController.Details(System.Guid)">
+            <summary>
+            Get Player By Identifier
+            </summary>
+            <param name="identifier">Player Identifier</param>
+            <returns></returns>
+        </member>
+        <member name="M:CytometrixWebAPI.Controllers.PlayersController.Create(CSTrackWebAPI.Model.DTO.View.PlayerCreateDTO)">
+            <summary>
+            Create Player
+            </summary>
+            <param name="model">Player Model</param>
+            <returns></returns>
+        </member>
+        <member name="M:CytometrixWebAPI.Controllers.PlayersController.Delete(System.Guid)">
+            <summary>
+            Delete Player By Identifier
+            </summary>
+            <param name="identifier">Player Identifier</param>
+            <returns></returns>
+        </member>
+        <member name="M:CytometrixWebAPI.Controllers.TournamentsController.List">
+            <summary>
+            Get All Tournaments
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CytometrixWebAPI.Controllers.TournamentsController.Details(System.Guid)">
+            <summary>
+            Get Tournament By Identifier
+            </summary>
+            <param name="identifier">Tournament Identifier</param>
+            <returns></returns>
+        </member>
+        <member name="M:CytometrixWebAPI.Controllers.TournamentsController.Create(CSTrackWebAPI.Model.DTO.View.TournamentCreateDTO)">
+            <summary>
+            Create Tournament (or sub-tournament)
+            </summary>
+            <param name="model">Tournament Model</param>
+            <returns></returns>
+        </member>
+        <member name="M:CytometrixWebAPI.Controllers.TournamentsController.Details(System.Guid,System.Guid)">
+            <summary>
+            Register Player for Tournament
+            </summary>
+            <param name="tournamentId">Tournament Identifier</param>
+            <param name="playerId">Player Identifier</param>
+            <returns></returns>
+        </member>
+        <member name="M:CytometrixWebAPI.Controllers.TournamentsController.Delete(System.Guid)">
+            <summary>
+            Delete Tournament By Identifier
+            </summary>
+            <param name="identifier">Tournament Identifier</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

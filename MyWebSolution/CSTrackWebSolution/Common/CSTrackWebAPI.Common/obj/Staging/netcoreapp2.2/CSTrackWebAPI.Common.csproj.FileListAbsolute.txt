@@ -1,0 +1,8 @@
+C:\Users\kytsun_a\Downloads\CSTrackWebSolution\Common\CSTrackWebAPI.Common\bin\Staging\netcoreapp2.2\CSTrackWebAPI.Common.deps.json
+C:\Users\kytsun_a\Downloads\CSTrackWebSolution\Common\CSTrackWebAPI.Common\bin\Staging\netcoreapp2.2\CSTrackWebAPI.Common.dll
+C:\Users\kytsun_a\Downloads\CSTrackWebSolution\Common\CSTrackWebAPI.Common\bin\Staging\netcoreapp2.2\CSTrackWebAPI.Common.pdb
+C:\Users\kytsun_a\Downloads\CSTrackWebSolution\Common\CSTrackWebAPI.Common\obj\Staging\netcoreapp2.2\CSTrackWebAPI.Common.csproj.CoreCompileInputs.cache
+C:\Users\kytsun_a\Downloads\CSTrackWebSolution\Common\CSTrackWebAPI.Common\obj\Staging\netcoreapp2.2\CSTrackWebAPI.Common.AssemblyInfoInputs.cache
+C:\Users\kytsun_a\Downloads\CSTrackWebSolution\Common\CSTrackWebAPI.Common\obj\Staging\netcoreapp2.2\CSTrackWebAPI.Common.AssemblyInfo.cs
+C:\Users\kytsun_a\Downloads\CSTrackWebSolution\Common\CSTrackWebAPI.Common\obj\Staging\netcoreapp2.2\CSTrackWebAPI.Common.dll
+C:\Users\kytsun_a\Downloads\CSTrackWebSolution\Common\CSTrackWebAPI.Common\obj\Staging\netcoreapp2.2\CSTrackWebAPI.Common.pdb

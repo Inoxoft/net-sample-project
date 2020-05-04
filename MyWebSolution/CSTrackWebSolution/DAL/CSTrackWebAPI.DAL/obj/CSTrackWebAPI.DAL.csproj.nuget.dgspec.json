@@ -1,0 +1,644 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\DAL\\CSTrackWebAPI.DAL\\CSTrackWebAPI.DAL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Common\\CSTrackWebAPI.Common\\CSTrackWebAPI.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Common\\CSTrackWebAPI.Common\\CSTrackWebAPI.Common.csproj",
+        "projectName": "CSTrackWebAPI.Common",
+        "projectPath": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Common\\CSTrackWebAPI.Common\\CSTrackWebAPI.Common.csproj",
+        "packagesPath": "C:\\Users\\kytsun_a\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Common\\CSTrackWebAPI.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kytsun_a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Core\\DAL\\CSTrackWebAPI.Core.DAL.Abstraction\\CSTrackWebAPI.Core.DAL.Abstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Core\\DAL\\CSTrackWebAPI.Core.DAL.Abstraction\\CSTrackWebAPI.Core.DAL.Abstraction.csproj",
+        "projectName": "CSTrackWebAPI.Core.DAL.Abstraction",
+        "projectPath": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Core\\DAL\\CSTrackWebAPI.Core.DAL.Abstraction\\CSTrackWebAPI.Core.DAL.Abstraction.csproj",
+        "packagesPath": "C:\\Users\\kytsun_a\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Core\\DAL\\CSTrackWebAPI.Core.DAL.Abstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kytsun_a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\CSTrackWebAPI.Core.Model.Abstraction\\CSTrackWebAPI.Core.Model.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\CSTrackWebAPI.Core.Model.Abstraction\\CSTrackWebAPI.Core.Model.Abstraction.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Core\\DAL\\CSTrackWebAPI.Core.DAL\\CSTrackWebAPI.Core.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Core\\DAL\\CSTrackWebAPI.Core.DAL\\CSTrackWebAPI.Core.DAL.csproj",
+        "projectName": "CSTrackWebAPI.Core.DAL",
+        "projectPath": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Core\\DAL\\CSTrackWebAPI.Core.DAL\\CSTrackWebAPI.Core.DAL.csproj",
+        "packagesPath": "C:\\Users\\kytsun_a\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Core\\DAL\\CSTrackWebAPI.Core.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kytsun_a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Core\\DAL\\CSTrackWebAPI.Core.DAL.Abstraction\\CSTrackWebAPI.Core.DAL.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Core\\DAL\\CSTrackWebAPI.Core.DAL.Abstraction\\CSTrackWebAPI.Core.DAL.Abstraction.csproj"
+              },
+              "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Model\\CSTrackWebAPI.Model.Context\\CSTrackWebAPI.Model.Context.csproj": {
+                "projectPath": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Model\\CSTrackWebAPI.Model.Context\\CSTrackWebAPI.Model.Context.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "System.Linq.Dynamic.Core": {
+              "target": "Package",
+              "version": "[1.0.19, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\CSTrackWebAPI.Core.Model.Abstraction\\CSTrackWebAPI.Core.Model.Abstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\CSTrackWebAPI.Core.Model.Abstraction\\CSTrackWebAPI.Core.Model.Abstraction.csproj",
+        "projectName": "CSTrackWebAPI.Core.Model.Abstraction",
+        "projectPath": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\CSTrackWebAPI.Core.Model.Abstraction\\CSTrackWebAPI.Core.Model.Abstraction.csproj",
+        "packagesPath": "C:\\Users\\kytsun_a\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\CSTrackWebAPI.Core.Model.Abstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kytsun_a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\CSTrackWebAPI.Model\\CSTrackWebAPI.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\CSTrackWebAPI.Model\\CSTrackWebAPI.Model.csproj",
+        "projectName": "CSTrackWebAPI.Model",
+        "projectPath": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\CSTrackWebAPI.Model\\CSTrackWebAPI.Model.csproj",
+        "packagesPath": "C:\\Users\\kytsun_a\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\CSTrackWebAPI.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kytsun_a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Common\\CSTrackWebAPI.Common\\CSTrackWebAPI.Common.csproj": {
+                "projectPath": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Common\\CSTrackWebAPI.Common\\CSTrackWebAPI.Common.csproj"
+              },
+              "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\CSTrackWebAPI.Core.Model.Abstraction\\CSTrackWebAPI.Core.Model.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\CSTrackWebAPI.Core.Model.Abstraction\\CSTrackWebAPI.Core.Model.Abstraction.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\DAL\\CSTrackWebAPI.DAL.Abstraction\\CSTrackWebAPI.DAL.Abstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\DAL\\CSTrackWebAPI.DAL.Abstraction\\CSTrackWebAPI.DAL.Abstraction.csproj",
+        "projectName": "CSTrackWebAPI.DAL.Abstraction",
+        "projectPath": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\DAL\\CSTrackWebAPI.DAL.Abstraction\\CSTrackWebAPI.DAL.Abstraction.csproj",
+        "packagesPath": "C:\\Users\\kytsun_a\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\DAL\\CSTrackWebAPI.DAL.Abstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kytsun_a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Common\\CSTrackWebAPI.Common\\CSTrackWebAPI.Common.csproj": {
+                "projectPath": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Common\\CSTrackWebAPI.Common\\CSTrackWebAPI.Common.csproj"
+              },
+              "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Core\\DAL\\CSTrackWebAPI.Core.DAL.Abstraction\\CSTrackWebAPI.Core.DAL.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Core\\DAL\\CSTrackWebAPI.Core.DAL.Abstraction\\CSTrackWebAPI.Core.DAL.Abstraction.csproj"
+              },
+              "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\CSTrackWebAPI.Model\\CSTrackWebAPI.Model.csproj": {
+                "projectPath": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\CSTrackWebAPI.Model\\CSTrackWebAPI.Model.csproj"
+              },
+              "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Model\\CSTrackWebAPI.Model.DTO\\CSTrackWebAPI.Model.DTO.csproj": {
+                "projectPath": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Model\\CSTrackWebAPI.Model.DTO\\CSTrackWebAPI.Model.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\DAL\\CSTrackWebAPI.DAL\\CSTrackWebAPI.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\DAL\\CSTrackWebAPI.DAL\\CSTrackWebAPI.DAL.csproj",
+        "projectName": "CSTrackWebAPI.DAL",
+        "projectPath": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\DAL\\CSTrackWebAPI.DAL\\CSTrackWebAPI.DAL.csproj",
+        "packagesPath": "C:\\Users\\kytsun_a\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\DAL\\CSTrackWebAPI.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kytsun_a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Core\\DAL\\CSTrackWebAPI.Core.DAL.Abstraction\\CSTrackWebAPI.Core.DAL.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Core\\DAL\\CSTrackWebAPI.Core.DAL.Abstraction\\CSTrackWebAPI.Core.DAL.Abstraction.csproj"
+              },
+              "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Core\\DAL\\CSTrackWebAPI.Core.DAL\\CSTrackWebAPI.Core.DAL.csproj": {
+                "projectPath": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Core\\DAL\\CSTrackWebAPI.Core.DAL\\CSTrackWebAPI.Core.DAL.csproj"
+              },
+              "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\DAL\\CSTrackWebAPI.DAL.Abstraction\\CSTrackWebAPI.DAL.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\DAL\\CSTrackWebAPI.DAL.Abstraction\\CSTrackWebAPI.DAL.Abstraction.csproj"
+              },
+              "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Model\\CSTrackWebAPI.Model.Context\\CSTrackWebAPI.Model.Context.csproj": {
+                "projectPath": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Model\\CSTrackWebAPI.Model.Context\\CSTrackWebAPI.Model.Context.csproj"
+              },
+              "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Model\\CSTrackWebAPI.Model.DTO\\CSTrackWebAPI.Model.DTO.csproj": {
+                "projectPath": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Model\\CSTrackWebAPI.Model.DTO\\CSTrackWebAPI.Model.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Model\\CSTrackWebAPI.Model.Context\\CSTrackWebAPI.Model.Context.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Model\\CSTrackWebAPI.Model.Context\\CSTrackWebAPI.Model.Context.csproj",
+        "projectName": "CSTrackWebAPI.Model.Context",
+        "projectPath": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Model\\CSTrackWebAPI.Model.Context\\CSTrackWebAPI.Model.Context.csproj",
+        "packagesPath": "C:\\Users\\kytsun_a\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Model\\CSTrackWebAPI.Model.Context\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kytsun_a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Common\\CSTrackWebAPI.Common\\CSTrackWebAPI.Common.csproj": {
+                "projectPath": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Common\\CSTrackWebAPI.Common\\CSTrackWebAPI.Common.csproj"
+              },
+              "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\CSTrackWebAPI.Model\\CSTrackWebAPI.Model.csproj": {
+                "projectPath": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\CSTrackWebAPI.Model\\CSTrackWebAPI.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "StoredProcedureEFCore": {
+              "target": "Package",
+              "version": "[0.3.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Model\\CSTrackWebAPI.Model.DTO\\CSTrackWebAPI.Model.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Model\\CSTrackWebAPI.Model.DTO\\CSTrackWebAPI.Model.DTO.csproj",
+        "projectName": "CSTrackWebAPI.Model.DTO",
+        "projectPath": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Model\\CSTrackWebAPI.Model.DTO\\CSTrackWebAPI.Model.DTO.csproj",
+        "packagesPath": "C:\\Users\\kytsun_a\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Model\\CSTrackWebAPI.Model.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kytsun_a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Common\\CSTrackWebAPI.Common\\CSTrackWebAPI.Common.csproj": {
+                "projectPath": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\Common\\CSTrackWebAPI.Common\\CSTrackWebAPI.Common.csproj"
+              },
+              "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\CSTrackWebAPI.Model\\CSTrackWebAPI.Model.csproj": {
+                "projectPath": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\CSTrackWebAPI.Model\\CSTrackWebAPI.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

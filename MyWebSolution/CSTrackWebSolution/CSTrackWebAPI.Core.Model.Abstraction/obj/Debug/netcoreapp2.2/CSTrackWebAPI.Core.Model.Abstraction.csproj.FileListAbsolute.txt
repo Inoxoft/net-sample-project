@@ -1,0 +1,9 @@
+C:\Users\kytsun_a\Downloads\CSTrackWebSolution\CSTrackWebAPI.Core.Model.Abstraction\bin\Debug\netcoreapp2.2\CSTrackWebAPI.Core.Model.Abstraction.deps.json
+C:\Users\kytsun_a\Downloads\CSTrackWebSolution\CSTrackWebAPI.Core.Model.Abstraction\bin\Debug\netcoreapp2.2\CSTrackWebAPI.Core.Model.Abstraction.dll
+C:\Users\kytsun_a\Downloads\CSTrackWebSolution\CSTrackWebAPI.Core.Model.Abstraction\bin\Debug\netcoreapp2.2\CSTrackWebAPI.Core.Model.Abstraction.pdb
+C:\Users\kytsun_a\Downloads\CSTrackWebSolution\CSTrackWebAPI.Core.Model.Abstraction\obj\Debug\netcoreapp2.2\CSTrackWebAPI.Core.Model.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\kytsun_a\Downloads\CSTrackWebSolution\CSTrackWebAPI.Core.Model.Abstraction\obj\Debug\netcoreapp2.2\CSTrackWebAPI.Core.Model.Abstraction.AssemblyInfoInputs.cache
+C:\Users\kytsun_a\Downloads\CSTrackWebSolution\CSTrackWebAPI.Core.Model.Abstraction\obj\Debug\netcoreapp2.2\CSTrackWebAPI.Core.Model.Abstraction.AssemblyInfo.cs
+C:\Users\kytsun_a\Downloads\CSTrackWebSolution\CSTrackWebAPI.Core.Model.Abstraction\obj\Debug\netcoreapp2.2\CSTrackWebAPI.Core.Model.Abstraction.dll
+C:\Users\kytsun_a\Downloads\CSTrackWebSolution\CSTrackWebAPI.Core.Model.Abstraction\obj\Debug\netcoreapp2.2\CSTrackWebAPI.Core.Model.Abstraction.pdb
+C:\Users\kytsun_a\Downloads\CSTrackWebSolution\CSTrackWebAPI.Core.Model.Abstraction\obj\Debug\netcoreapp2.2\CSTrackWebAPI.Core.Model.Abstraction.csprojAssemblyReference.cache

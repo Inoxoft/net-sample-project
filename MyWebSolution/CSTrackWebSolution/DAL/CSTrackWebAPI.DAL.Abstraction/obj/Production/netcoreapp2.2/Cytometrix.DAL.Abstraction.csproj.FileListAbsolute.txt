@@ -1,0 +1,59 @@
+C:\Work\cytometrixapi\DAL\Cytometrix.DAL.Abstraction\bin\Production\netcoreapp2.2\Cytometrix.DAL.Abstraction.deps.json
+C:\Work\cytometrixapi\DAL\Cytometrix.DAL.Abstraction\bin\Production\netcoreapp2.2\Cytometrix.DAL.Abstraction.dll
+C:\Work\cytometrixapi\DAL\Cytometrix.DAL.Abstraction\bin\Production\netcoreapp2.2\Cytometrix.DAL.Abstraction.pdb
+C:\Work\cytometrixapi\DAL\Cytometrix.DAL.Abstraction\bin\Production\netcoreapp2.2\Cytometrix.Common.dll
+C:\Work\cytometrixapi\DAL\Cytometrix.DAL.Abstraction\bin\Production\netcoreapp2.2\Cytometrix.Core.DAL.Abstraction.dll
+C:\Work\cytometrixapi\DAL\Cytometrix.DAL.Abstraction\bin\Production\netcoreapp2.2\Cytometrix.Core.Model.Abstraction.dll
+C:\Work\cytometrixapi\DAL\Cytometrix.DAL.Abstraction\bin\Production\netcoreapp2.2\Cytometrix.Model.dll
+C:\Work\cytometrixapi\DAL\Cytometrix.DAL.Abstraction\bin\Production\netcoreapp2.2\Cytometrix.Model.DTO.dll
+C:\Work\cytometrixapi\DAL\Cytometrix.DAL.Abstraction\bin\Production\netcoreapp2.2\Cytometrix.Common.pdb
+C:\Work\cytometrixapi\DAL\Cytometrix.DAL.Abstraction\bin\Production\netcoreapp2.2\Cytometrix.Core.DAL.Abstraction.pdb
+C:\Work\cytometrixapi\DAL\Cytometrix.DAL.Abstraction\bin\Production\netcoreapp2.2\Cytometrix.Model.DTO.pdb
+C:\Work\cytometrixapi\DAL\Cytometrix.DAL.Abstraction\bin\Production\netcoreapp2.2\Cytometrix.Model.pdb
+C:\Work\cytometrixapi\DAL\Cytometrix.DAL.Abstraction\bin\Production\netcoreapp2.2\Cytometrix.Core.Model.Abstraction.pdb
+C:\Work\cytometrixapi\DAL\Cytometrix.DAL.Abstraction\obj\Production\netcoreapp2.2\Cytometrix.DAL.Abstraction.csprojAssemblyReference.cache
+C:\Work\cytometrixapi\DAL\Cytometrix.DAL.Abstraction\obj\Production\netcoreapp2.2\Cytometrix.DAL.Abstraction.AssemblyInfoInputs.cache
+C:\Work\cytometrixapi\DAL\Cytometrix.DAL.Abstraction\obj\Production\netcoreapp2.2\Cytometrix.DAL.Abstraction.AssemblyInfo.cs
+C:\Work\cytometrixapi\DAL\Cytometrix.DAL.Abstraction\obj\Production\netcoreapp2.2\Cytometrix.DAL.Abstraction.csproj.CopyComplete
+C:\Work\cytometrixapi\DAL\Cytometrix.DAL.Abstraction\obj\Production\netcoreapp2.2\Cytometrix.DAL.Abstraction.dll
+C:\Work\cytometrixapi\DAL\Cytometrix.DAL.Abstraction\obj\Production\netcoreapp2.2\Cytometrix.DAL.Abstraction.pdb
+C:\Work\cytometrixapi\DAL\Cytometrix.DAL.Abstraction\obj\Production\netcoreapp2.2\Cytometrix.DAL.Abstraction.csproj.CoreCompileInputs.cache
+C:\Work\cytometrixapi - копия\DAL\Cytometrix.DAL.Abstraction\obj\Production\netcoreapp2.2\Cytometrix.DAL.Abstraction.csprojAssemblyReference.cache
+C:\Work\cytometrixapi - копия\DAL\Cytometrix.DAL.Abstraction\obj\Production\netcoreapp2.2\Cytometrix.DAL.Abstraction.AssemblyInfoInputs.cache
+C:\Work\cytometrixapi - копия\DAL\Cytometrix.DAL.Abstraction\obj\Production\netcoreapp2.2\Cytometrix.DAL.Abstraction.AssemblyInfo.cs
+C:\Work\cytometrixapi - копия\DAL\Cytometrix.DAL.Abstraction\obj\Production\netcoreapp2.2\Cytometrix.DAL.Abstraction.dll
+C:\Work\cytometrixapi - копия\DAL\Cytometrix.DAL.Abstraction\obj\Production\netcoreapp2.2\Cytometrix.DAL.Abstraction.pdb
+C:\Work\cytometrixapi - копия\DAL\Cytometrix.DAL.Abstraction\bin\Production\netcoreapp2.2\Cytometrix.DAL.Abstraction.deps.json
+C:\Work\cytometrixapi - копия\DAL\Cytometrix.DAL.Abstraction\bin\Production\netcoreapp2.2\Cytometrix.DAL.Abstraction.dll
+C:\Work\cytometrixapi - копия\DAL\Cytometrix.DAL.Abstraction\bin\Production\netcoreapp2.2\Cytometrix.DAL.Abstraction.pdb
+C:\Work\cytometrixapi - копия\DAL\Cytometrix.DAL.Abstraction\bin\Production\netcoreapp2.2\Cytometrix.Common.dll
+C:\Work\cytometrixapi - копия\DAL\Cytometrix.DAL.Abstraction\bin\Production\netcoreapp2.2\Cytometrix.Core.DAL.Abstraction.dll
+C:\Work\cytometrixapi - копия\DAL\Cytometrix.DAL.Abstraction\bin\Production\netcoreapp2.2\Cytometrix.Core.Model.Abstraction.dll
+C:\Work\cytometrixapi - копия\DAL\Cytometrix.DAL.Abstraction\bin\Production\netcoreapp2.2\Cytometrix.Model.dll
+C:\Work\cytometrixapi - копия\DAL\Cytometrix.DAL.Abstraction\bin\Production\netcoreapp2.2\Cytometrix.Model.DTO.dll
+C:\Work\cytometrixapi - копия\DAL\Cytometrix.DAL.Abstraction\bin\Production\netcoreapp2.2\Cytometrix.Common.pdb
+C:\Work\cytometrixapi - копия\DAL\Cytometrix.DAL.Abstraction\bin\Production\netcoreapp2.2\Cytometrix.Core.DAL.Abstraction.pdb
+C:\Work\cytometrixapi - копия\DAL\Cytometrix.DAL.Abstraction\bin\Production\netcoreapp2.2\Cytometrix.Model.DTO.pdb
+C:\Work\cytometrixapi - копия\DAL\Cytometrix.DAL.Abstraction\bin\Production\netcoreapp2.2\Cytometrix.Model.pdb
+C:\Work\cytometrixapi - копия\DAL\Cytometrix.DAL.Abstraction\bin\Production\netcoreapp2.2\Cytometrix.Core.Model.Abstraction.pdb
+C:\Work\cytometrixapi - копия\DAL\Cytometrix.DAL.Abstraction\obj\Production\netcoreapp2.2\Cytometrix.DAL.Abstraction.csproj.CopyComplete
+C:\Users\kytsun_a\Downloads\cytometrixapi - копия\DAL\Cytometrix.DAL.Abstraction\bin\Production\netcoreapp2.2\Cytometrix.DAL.Abstraction.deps.json
+C:\Users\kytsun_a\Downloads\cytometrixapi - копия\DAL\Cytometrix.DAL.Abstraction\bin\Production\netcoreapp2.2\Cytometrix.DAL.Abstraction.dll
+C:\Users\kytsun_a\Downloads\cytometrixapi - копия\DAL\Cytometrix.DAL.Abstraction\bin\Production\netcoreapp2.2\Cytometrix.DAL.Abstraction.pdb
+C:\Users\kytsun_a\Downloads\cytometrixapi - копия\DAL\Cytometrix.DAL.Abstraction\bin\Production\netcoreapp2.2\Cytometrix.Common.dll
+C:\Users\kytsun_a\Downloads\cytometrixapi - копия\DAL\Cytometrix.DAL.Abstraction\bin\Production\netcoreapp2.2\Cytometrix.Core.DAL.Abstraction.dll
+C:\Users\kytsun_a\Downloads\cytometrixapi - копия\DAL\Cytometrix.DAL.Abstraction\bin\Production\netcoreapp2.2\Cytometrix.Core.Model.Abstraction.dll
+C:\Users\kytsun_a\Downloads\cytometrixapi - копия\DAL\Cytometrix.DAL.Abstraction\bin\Production\netcoreapp2.2\Cytometrix.Model.dll
+C:\Users\kytsun_a\Downloads\cytometrixapi - копия\DAL\Cytometrix.DAL.Abstraction\bin\Production\netcoreapp2.2\Cytometrix.Model.DTO.dll
+C:\Users\kytsun_a\Downloads\cytometrixapi - копия\DAL\Cytometrix.DAL.Abstraction\bin\Production\netcoreapp2.2\Cytometrix.Common.pdb
+C:\Users\kytsun_a\Downloads\cytometrixapi - копия\DAL\Cytometrix.DAL.Abstraction\bin\Production\netcoreapp2.2\Cytometrix.Core.DAL.Abstraction.pdb
+C:\Users\kytsun_a\Downloads\cytometrixapi - копия\DAL\Cytometrix.DAL.Abstraction\bin\Production\netcoreapp2.2\Cytometrix.Model.DTO.pdb
+C:\Users\kytsun_a\Downloads\cytometrixapi - копия\DAL\Cytometrix.DAL.Abstraction\bin\Production\netcoreapp2.2\Cytometrix.Model.pdb
+C:\Users\kytsun_a\Downloads\cytometrixapi - копия\DAL\Cytometrix.DAL.Abstraction\bin\Production\netcoreapp2.2\Cytometrix.Core.Model.Abstraction.pdb
+C:\Users\kytsun_a\Downloads\cytometrixapi - копия\DAL\Cytometrix.DAL.Abstraction\obj\Production\netcoreapp2.2\Cytometrix.DAL.Abstraction.csprojAssemblyReference.cache
+C:\Users\kytsun_a\Downloads\cytometrixapi - копия\DAL\Cytometrix.DAL.Abstraction\obj\Production\netcoreapp2.2\Cytometrix.DAL.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\kytsun_a\Downloads\cytometrixapi - копия\DAL\Cytometrix.DAL.Abstraction\obj\Production\netcoreapp2.2\Cytometrix.DAL.Abstraction.AssemblyInfoInputs.cache
+C:\Users\kytsun_a\Downloads\cytometrixapi - копия\DAL\Cytometrix.DAL.Abstraction\obj\Production\netcoreapp2.2\Cytometrix.DAL.Abstraction.AssemblyInfo.cs
+C:\Users\kytsun_a\Downloads\cytometrixapi - копия\DAL\Cytometrix.DAL.Abstraction\obj\Production\netcoreapp2.2\Cytometrix.DAL.Abstraction.csproj.CopyComplete
+C:\Users\kytsun_a\Downloads\cytometrixapi - копия\DAL\Cytometrix.DAL.Abstraction\obj\Production\netcoreapp2.2\Cytometrix.DAL.Abstraction.dll
+C:\Users\kytsun_a\Downloads\cytometrixapi - копия\DAL\Cytometrix.DAL.Abstraction\obj\Production\netcoreapp2.2\Cytometrix.DAL.Abstraction.pdb

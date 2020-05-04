@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <Configurations>Development;Staging;Production;Testing</Configurations>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Repositories\Base\**" />
+    <EmbeddedResource Remove="Repositories\Base\**" />
+    <None Remove="Repositories\Base\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.2.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\DAL\CSTrackWebAPI.Core.DAL.Abstraction\CSTrackWebAPI.Core.DAL.Abstraction.csproj" />
+    <ProjectReference Include="..\..\Core\DAL\CSTrackWebAPI.Core.DAL\CSTrackWebAPI.Core.DAL.csproj" />
+    <ProjectReference Include="..\..\Model\CSTrackWebAPI.Model.Context\CSTrackWebAPI.Model.Context.csproj" />
+    <ProjectReference Include="..\..\Model\CSTrackWebAPI.Model.DTO\CSTrackWebAPI.Model.DTO.csproj" />
+    <ProjectReference Include="..\CSTrackWebAPI.DAL.Abstraction\CSTrackWebAPI.DAL.Abstraction.csproj" />
+  </ItemGroup>
+
+</Project>

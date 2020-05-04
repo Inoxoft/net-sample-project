@@ -1,0 +1,12 @@
+C:\Users\kytsun_a\Downloads\CSTrackWebSolution\Core\DAL\CSTrackWebAPI.Core.DAL.Abstraction\bin\Production\netcoreapp2.2\CSTrackWebAPI.Core.DAL.Abstraction.deps.json
+C:\Users\kytsun_a\Downloads\CSTrackWebSolution\Core\DAL\CSTrackWebAPI.Core.DAL.Abstraction\bin\Production\netcoreapp2.2\CSTrackWebAPI.Core.DAL.Abstraction.dll
+C:\Users\kytsun_a\Downloads\CSTrackWebSolution\Core\DAL\CSTrackWebAPI.Core.DAL.Abstraction\bin\Production\netcoreapp2.2\CSTrackWebAPI.Core.DAL.Abstraction.pdb
+C:\Users\kytsun_a\Downloads\CSTrackWebSolution\Core\DAL\CSTrackWebAPI.Core.DAL.Abstraction\bin\Production\netcoreapp2.2\CSTrackWebAPI.Core.Model.Abstraction.dll
+C:\Users\kytsun_a\Downloads\CSTrackWebSolution\Core\DAL\CSTrackWebAPI.Core.DAL.Abstraction\bin\Production\netcoreapp2.2\CSTrackWebAPI.Core.Model.Abstraction.pdb
+C:\Users\kytsun_a\Downloads\CSTrackWebSolution\Core\DAL\CSTrackWebAPI.Core.DAL.Abstraction\obj\Production\netcoreapp2.2\CSTrackWebAPI.Core.DAL.Abstraction.csprojAssemblyReference.cache
+C:\Users\kytsun_a\Downloads\CSTrackWebSolution\Core\DAL\CSTrackWebAPI.Core.DAL.Abstraction\obj\Production\netcoreapp2.2\CSTrackWebAPI.Core.DAL.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\kytsun_a\Downloads\CSTrackWebSolution\Core\DAL\CSTrackWebAPI.Core.DAL.Abstraction\obj\Production\netcoreapp2.2\CSTrackWebAPI.Core.DAL.Abstraction.AssemblyInfoInputs.cache
+C:\Users\kytsun_a\Downloads\CSTrackWebSolution\Core\DAL\CSTrackWebAPI.Core.DAL.Abstraction\obj\Production\netcoreapp2.2\CSTrackWebAPI.Core.DAL.Abstraction.AssemblyInfo.cs
+C:\Users\kytsun_a\Downloads\CSTrackWebSolution\Core\DAL\CSTrackWebAPI.Core.DAL.Abstraction\obj\Production\netcoreapp2.2\CSTrackWebAPI.Core.DAL.Abstraction.csproj.CopyComplete
+C:\Users\kytsun_a\Downloads\CSTrackWebSolution\Core\DAL\CSTrackWebAPI.Core.DAL.Abstraction\obj\Production\netcoreapp2.2\CSTrackWebAPI.Core.DAL.Abstraction.dll
+C:\Users\kytsun_a\Downloads\CSTrackWebSolution\Core\DAL\CSTrackWebAPI.Core.DAL.Abstraction\obj\Production\netcoreapp2.2\CSTrackWebAPI.Core.DAL.Abstraction.pdb

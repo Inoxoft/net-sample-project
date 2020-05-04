@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <Configurations>Development;Staging;Production;Testing</Configurations>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\CSTrackWebAPI.Core.Model.Abstraction\CSTrackWebAPI.Core.Model.Abstraction.csproj" />
+  </ItemGroup>
+
+
+
+</Project>

@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <Configurations>Development;Staging;Production;Testing</Configurations>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="9.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Grid\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Remove="Grid\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Grid\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Common\CSTrackWebAPI.Common\CSTrackWebAPI.Common.csproj" />
+    <ProjectReference Include="..\..\CSTrackWebAPI.Model\CSTrackWebAPI.Model.csproj" />
+  </ItemGroup>
+
+</Project>

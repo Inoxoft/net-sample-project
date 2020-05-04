@@ -1,0 +1,66 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <Configurations>Development;Staging;Production;Testing</Configurations>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+  <!-- Custom Property Group added to add the Environment name during publish
+  The EnvironmentName property is used during the publish for the Environment variable in web.config
+  -->
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Staging|AnyCPU'">
+    <DocumentationFile>CSTrackWebAPI.xml</DocumentationFile>
+    <NoWarn>1701;1702;1591</NoWarn>
+    <EnvironmentName>Staging</EnvironmentName>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Testing|AnyCPU'">
+    <DocumentationFile>CSTrackWebAPI.xml</DocumentationFile>
+    <NoWarn>1701;1702;1591</NoWarn>
+    <EnvironmentName>Testing</EnvironmentName>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Production|AnyCPU'">
+    <NoWarn>1701;1702;1591</NoWarn>
+    <EnvironmentName>Production</EnvironmentName>
+    <DocumentationFile>CSTrackWebAPI.xml</DocumentationFile>
+    <MvcRazorExcludeRefAssembliesFromPublish>false</MvcRazorExcludeRefAssembliesFromPublish>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Development|AnyCPU'">
+    <DocumentationFile>CSTrackWebAPI.xml</DocumentationFile>
+    <NoWarn>1701;1702;1591</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="wwwroot\**" />
+    <Content Remove="wwwroot\**" />
+    <EmbeddedResource Remove="wwwroot\**" />
+    <None Remove="wwwroot\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="4.9.4" />
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="5.0.1" />
+    <PackageReference Include="Hangfire.Autofac" Version="2.3.1" />
+    <PackageReference Include="HtmlAgilityPack.NetCore" Version="1.5.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Primitives" Version="2.2.0" />
+    <PackageReference Include="Scrutor" Version="3.1.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="4.0.1" />
+    <!-- <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.1.1" /> -->
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Common\CSTrackWebAPI.Common\CSTrackWebAPI.Common.csproj" />
+    <ProjectReference Include="..\DAL\CSTrackWebAPI.DAL.Abstraction\CSTrackWebAPI.DAL.Abstraction.csproj" />
+    <ProjectReference Include="..\Managers\CSTrackWebAPI.Managers.Abstraction\CSTrackWebAPI.Managers.Abstraction.csproj" />
+    <ProjectReference Include="..\Managers\CSTrackWebAPI.Managers\CSTrackWebAPI.Managers.csproj" />
+    <ProjectReference Include="..\Model\CSTrackWebAPI.Model.Context\CSTrackWebAPI.Model.Context.csproj" />
+    <ProjectReference Include="..\Model\CSTrackWebAPI.Model.DTO\CSTrackWebAPI.Model.DTO.csproj" />
+    <ProjectReference Include="..\Services\CSTrackWebAPI.Service.Abstraction\CSTrackWebAPI.Service.Abstraction.csproj" />
+    <ProjectReference Include="..\Services\CSTrackWebAPI.Service\CSTrackWebAPI.Service.csproj" />
+  </ItemGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties properties_4launchsettings_1json__JsonSchema="" /></VisualStudio></ProjectExtensions>
+
+</Project>

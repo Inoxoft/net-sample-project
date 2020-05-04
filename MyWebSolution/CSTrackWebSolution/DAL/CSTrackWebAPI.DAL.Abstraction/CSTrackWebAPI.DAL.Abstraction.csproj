@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <Configurations>Development;Staging;Production;Testing</Configurations>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Common\CSTrackWebAPI.Common\CSTrackWebAPI.Common.csproj" />
+    <ProjectReference Include="..\..\Core\DAL\CSTrackWebAPI.Core.DAL.Abstraction\CSTrackWebAPI.Core.DAL.Abstraction.csproj" />
+    <ProjectReference Include="..\..\CSTrackWebAPI.Model\CSTrackWebAPI.Model.csproj" />
+    <ProjectReference Include="..\..\Model\CSTrackWebAPI.Model.DTO\CSTrackWebAPI.Model.DTO.csproj" />
+  </ItemGroup>
+
+</Project>

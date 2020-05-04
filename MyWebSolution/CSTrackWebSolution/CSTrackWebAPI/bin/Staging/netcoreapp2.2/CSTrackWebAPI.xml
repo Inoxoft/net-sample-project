@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CSTrackWebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:CytometrixWebAPI.Controllers.PlayersController.List">
+            <summary>
+            Get All Players
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CytometrixWebAPI.Controllers.PlayersController.Details(System.Guid)">
+            <summary>
+            Get Player By Identifier
+            </summary>
+            <param name="identifier">Player Identifier</param>
+            <returns></returns>
+        </member>
+        <member name="M:CytometrixWebAPI.Controllers.PlayersController.Create(CSTrackWebAPI.Model.DTO.View.PlayerCreateDTO)">
+            <summary>
+            Create Player
+            </summary>
+            <param name="model">Player Model</param>
+            <returns></returns>
+        </member>
+        <member name="M:CytometrixWebAPI.Controllers.PlayersController.Delete(System.Guid)">
+            <summary>
+            Delete Player By Identifier
+            </summary>
+            <param name="identifier">Player Identifier</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

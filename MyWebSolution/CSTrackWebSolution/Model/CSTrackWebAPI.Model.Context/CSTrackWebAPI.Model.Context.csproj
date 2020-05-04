@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <Configurations>Development;Staging;Production;Testing</Configurations>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Configurations\UserRolesConfiguration.cs" />
+    <Compile Remove="Migrations\20190911104732_User Position.cs" />
+    <Compile Remove="Migrations\20190911113231_UserExtraFields.cs" />
+    <Compile Remove="Migrations\20190911114612_UserExtraFields.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="9.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.2.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.2.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite" Version="2.2.6" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.EnvironmentVariables" Version="2.2.4" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.FileExtensions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="2.2.0" />
+    <PackageReference Include="StoredProcedureEFCore" Version="0.3.11" />
+    <!-- Keep this -->
+    <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Common\CSTrackWebAPI.Common\CSTrackWebAPI.Common.csproj" />
+    <ProjectReference Include="..\..\CSTrackWebAPI.Model\CSTrackWebAPI.Model.csproj" />
+  </ItemGroup>
+
+</Project>

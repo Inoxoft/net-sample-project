@@ -1,0 +1,12 @@
+C:\Work\cytometrixapi\Core\DAL\Cytometrix.Core.DAL.Abstraction\bin\Testing\netcoreapp2.2\Cytometrix.Core.DAL.Abstraction.deps.json
+C:\Work\cytometrixapi\Core\DAL\Cytometrix.Core.DAL.Abstraction\bin\Testing\netcoreapp2.2\Cytometrix.Core.DAL.Abstraction.dll
+C:\Work\cytometrixapi\Core\DAL\Cytometrix.Core.DAL.Abstraction\bin\Testing\netcoreapp2.2\Cytometrix.Core.DAL.Abstraction.pdb
+C:\Work\cytometrixapi\Core\DAL\Cytometrix.Core.DAL.Abstraction\bin\Testing\netcoreapp2.2\Cytometrix.Core.Model.Abstraction.dll
+C:\Work\cytometrixapi\Core\DAL\Cytometrix.Core.DAL.Abstraction\bin\Testing\netcoreapp2.2\Cytometrix.Core.Model.Abstraction.pdb
+C:\Work\cytometrixapi\Core\DAL\Cytometrix.Core.DAL.Abstraction\obj\Testing\netcoreapp2.2\Cytometrix.Core.DAL.Abstraction.csprojAssemblyReference.cache
+C:\Work\cytometrixapi\Core\DAL\Cytometrix.Core.DAL.Abstraction\obj\Testing\netcoreapp2.2\Cytometrix.Core.DAL.Abstraction.csproj.CoreCompileInputs.cache
+C:\Work\cytometrixapi\Core\DAL\Cytometrix.Core.DAL.Abstraction\obj\Testing\netcoreapp2.2\Cytometrix.Core.DAL.Abstraction.AssemblyInfoInputs.cache
+C:\Work\cytometrixapi\Core\DAL\Cytometrix.Core.DAL.Abstraction\obj\Testing\netcoreapp2.2\Cytometrix.Core.DAL.Abstraction.AssemblyInfo.cs
+C:\Work\cytometrixapi\Core\DAL\Cytometrix.Core.DAL.Abstraction\obj\Testing\netcoreapp2.2\Cytometrix.Core.DAL.Abstraction.csproj.CopyComplete
+C:\Work\cytometrixapi\Core\DAL\Cytometrix.Core.DAL.Abstraction\obj\Testing\netcoreapp2.2\Cytometrix.Core.DAL.Abstraction.dll
+C:\Work\cytometrixapi\Core\DAL\Cytometrix.Core.DAL.Abstraction\obj\Testing\netcoreapp2.2\Cytometrix.Core.DAL.Abstraction.pdb

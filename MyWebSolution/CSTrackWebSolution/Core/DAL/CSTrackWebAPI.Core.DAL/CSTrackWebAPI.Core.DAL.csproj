@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp2.2</TargetFramework>
+        <Configurations>Development;Staging;Production;Testing</Configurations>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="System.Linq.Dynamic.Core" Version="1.0.19" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\..\Model\CSTrackWebAPI.Model.Context\CSTrackWebAPI.Model.Context.csproj" />
+      <ProjectReference Include="..\CSTrackWebAPI.Core.DAL.Abstraction\CSTrackWebAPI.Core.DAL.Abstraction.csproj" />
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,9 @@
+C:\Work\cytometrixapi\Cytometrix.Core.Model.Abstraction\bin\Release\netcoreapp2.2\Cytometrix.Core.Model.Abstraction.deps.json
+C:\Work\cytometrixapi\Cytometrix.Core.Model.Abstraction\bin\Release\netcoreapp2.2\Cytometrix.Core.Model.Abstraction.dll
+C:\Work\cytometrixapi\Cytometrix.Core.Model.Abstraction\bin\Release\netcoreapp2.2\Cytometrix.Core.Model.Abstraction.pdb
+C:\Work\cytometrixapi\Cytometrix.Core.Model.Abstraction\obj\Release\netcoreapp2.2\Cytometrix.Core.Model.Abstraction.csproj.CoreCompileInputs.cache
+C:\Work\cytometrixapi\Cytometrix.Core.Model.Abstraction\obj\Release\netcoreapp2.2\Cytometrix.Core.Model.Abstraction.AssemblyInfoInputs.cache
+C:\Work\cytometrixapi\Cytometrix.Core.Model.Abstraction\obj\Release\netcoreapp2.2\Cytometrix.Core.Model.Abstraction.AssemblyInfo.cs
+C:\Work\cytometrixapi\Cytometrix.Core.Model.Abstraction\obj\Release\netcoreapp2.2\Cytometrix.Core.Model.Abstraction.dll
+C:\Work\cytometrixapi\Cytometrix.Core.Model.Abstraction\obj\Release\netcoreapp2.2\Cytometrix.Core.Model.Abstraction.pdb
+C:\Work\cytometrixapi\Cytometrix.Core.Model.Abstraction\obj\Release\netcoreapp2.2\Cytometrix.Core.Model.Abstraction.csprojAssemblyReference.cache

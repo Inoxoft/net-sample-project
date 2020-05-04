@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Identity.Stores" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Common\CSTrackWebAPI.Common\CSTrackWebAPI.Common.csproj" />
+    <ProjectReference Include="..\CSTrackWebAPI.Core.Model.Abstraction\CSTrackWebAPI.Core.Model.Abstraction.csproj" />
+  </ItemGroup>
+
+</Project>

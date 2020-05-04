@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "FcvrrT2Wd3yhxFngig+1K6h1e5Kjhap6Pc9K1GJYk8F9BEA3VP6FQwp7x5EHgN6JgEbQtmpjzMcjcbxhRl0UJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kytsun_a\\Downloads\\CSTrackWebSolution\\CSTrackWebAPI.Core.Model.Abstraction\\CSTrackWebAPI.Core.Model.Abstraction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kytsun_a\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\kytsun_a\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\kytsun_a\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\kytsun_a\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\kytsun_a\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\kytsun_a\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\kytsun_a\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
